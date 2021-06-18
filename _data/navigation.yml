@@ -11,7 +11,7 @@
   side: left
 
 - title: "Team"
-  url: "/team/"
+  url:
   side: left
 
 # - title: "Projects"
