@@ -29,4 +29,8 @@ About 1 million tons of plastics are used in Lagos annually with 4% recycled. Pl
 * Providing income and making a profit.
 
 ### Our partners
-Our partners include Sheraton hotel, Bon hotels, Posh Apartments, The place restaurant, Blackbell Restaurant, Farm city.
+
+<br/>
+<img src="/images/partners.jpg" 
+    alt="Our partners include Sheraton hotel, Bon hotels, Posh Apartments, The place restaurant, Blackbell Restaurant, Farm city." 
+    style="width: 100%; max-width: 2000px;" class="center">
