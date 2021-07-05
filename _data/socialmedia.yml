@@ -1,5 +1,5 @@
 - name: Email
-  url: mailto:dolapo@alongreen.com
+  url: mailto:info@alongreen.com
   class: icon-mail
   title: ""
 
@@ -8,9 +8,9 @@
   class: icon-linkedin
   title: ""
 
-- name: RSS
-  url: /feed.xml
-  class: icon-rss
+- name: Facebook
+  url: https://www.facebook.com/alongreen.recycling.5
+  class: icon-facebook
   title: ""
 
 # - name: GitHub
